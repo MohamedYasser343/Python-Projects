@@ -1,6 +1,6 @@
 # Python-Projects
 
-As you can see this repo is for some first python projects I made
+This repo is for some first python projects I made
 
 ---
 
